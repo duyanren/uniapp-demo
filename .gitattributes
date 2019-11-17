@@ -1,3 +1,3 @@
-*.vue linguist-detectable=typescript
-*.ts linguist-detectable=typescript
-*.js linguist-detectable=typescript
+*.vue linguist-detectable=Typescript
+*.ts linguist-detectable=Typescript
+*.js linguist-detectable=Typescript
